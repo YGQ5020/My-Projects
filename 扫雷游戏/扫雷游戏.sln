@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "扫雷游戏", "扫雷游戏\扫雷游戏.vcxproj", "{A1EC3D96-6DB9-47E5-9183-97F06FA32FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1EC3D96-6DB9-47E5-9183-97F06FA32FD6}.Debug|x64.ActiveCfg = Debug|x64
+		{A1EC3D96-6DB9-47E5-9183-97F06FA32FD6}.Debug|x64.Build.0 = Debug|x64
+		{A1EC3D96-6DB9-47E5-9183-97F06FA32FD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1EC3D96-6DB9-47E5-9183-97F06FA32FD6}.Debug|x86.Build.0 = Debug|Win32
+		{A1EC3D96-6DB9-47E5-9183-97F06FA32FD6}.Release|x64.ActiveCfg = Release|x64
+		{A1EC3D96-6DB9-47E5-9183-97F06FA32FD6}.Release|x64.Build.0 = Release|x64
+		{A1EC3D96-6DB9-47E5-9183-97F06FA32FD6}.Release|x86.ActiveCfg = Release|Win32
+		{A1EC3D96-6DB9-47E5-9183-97F06FA32FD6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFC291F4-44FE-49A6-80A2-E24A811A0915}
+	EndGlobalSection
+EndGlobal
